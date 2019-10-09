@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="WebApplication1._Default" %>
+﻿<%@ Page Title="Início" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="WebApplication1._Default" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
@@ -16,7 +16,7 @@
             Trabalhamos arduamente com designers, e grandes fãs do mundo Geek, para que tenhamos disponivel para você, a estampa perfeita para seus momentos nerds.
             </p>
             <p>
-                <a class="btn btn-default" href="Missão">Veja mais &raquo;</a>
+                <a class="btn btn-default" href="About">Veja mais &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
